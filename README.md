@@ -5,21 +5,21 @@ IPL Auction dataset using python libraries pandas, numpy, matplotlib and seaborn
 # GOALS
 The Goal of this IPl_Auction_2022_EDA Project . Cleaning , Analysing and exploring the dataset.
 
-Investigated the dataset such as:
-Players participated in 2022 auction.
-Participation in based on role.
-Players were sold and unsold in ipl 2022 auction.
-Players bought by each team. players retained and draft pick by each team.
-Players are bought for each role.
-The players who particpated in ipl 2021 and will be participating in ipl 2022 and playing in same team.
-Number of players in each team based on roles.
-Highest bid by each team.
-Top5 batsmen bid 2022.
-Highest paid retained.
-Amount spent by each team in auction.
+Investigated the dataset such as:   
+Players participated in 2022 auction.   
+Participation in based on role.    
+Players were sold and unsold in ipl 2022 auction.     
+Players bought by each team. players retained and draft pick by each team.       
+Players are bought for each role.      
+The players who particpated in ipl 2021 and will be participating in ipl 2022 and playing in same team.      
+Number of players in each team based on roles.      
+Highest bid by each team.    
+Top5 batsmen bid 2022.    
+Highest paid retained.     
+Amount spent by each team in auction.    
 List of players who Played IPL 2021 but went unsold in IPL 2022.
 
 # Contributors
-Vilasagaram Sai Shivani
-Ale Sai Kiran
+Vilasagaram Sai Shivani     
+Ale Sai Kiran   
 Developed as part of the Exloratory Data Analysis.
