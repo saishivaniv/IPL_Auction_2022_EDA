@@ -3,7 +3,7 @@ The IPL 2022 Mega Player auction have featured a total of 600 players who were s
 # Libraries Used
 IPL Auction dataset using python libraries pandas, numpy, matplotlib and seaborn. Note: It generates insights about sold and unsold players and the team's performance in the auction.
 # GOALS
-The Goal of this IPl_Auction_2022_EDA Project . Cleaning , Analysing and exploring the dataset.
+The Goal of this IPl_Auction_2022_EDA Project - Cleaning , Analysing and exploring the dataset.
 
 Investigated the dataset such as:   
 Players participated in 2022 auction.   
